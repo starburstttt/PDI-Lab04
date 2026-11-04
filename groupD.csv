@@ -1,0 +1,254 @@
+ID,gender,group,Education,test preparation course,Math,English,Computer,Total,Average
+2632,male,group D,high school,completed,64,64,67,195,65.00
+1608,male,group D,associate degree,none,40,52,43,135,45.00
+3306,male,group D,high school,none,66,69,63,198,66.00
+8979,male,group D,some college,none,44,54,53,151,50.33
+7703,male,group D,bachelor degree,completed,74,71,80,225,75.00
+7964,male,group D,some college,none,40,42,38,120,40.00
+8557,male,group D,high school,none,88,78,75,241,80.33
+6123,male,group D,associate degree,none,52,55,49,156,52.00
+5500,male,group D,some college,completed,58,59,58,175,58.33
+7938,male,group D,some high school,none,45,37,37,119,39.67
+8219,male,group D,some college,completed,63,55,63,181,60.33
+5938,male,group D,high school,none,42,39,34,115,38.33
+9435,male,group D,bachelor degree,completed,68,74,74,216,72.00
+5414,male,group D,high school,none,63,57,56,176,58.67
+6255,male,group D,some college,completed,65,77,74,216,72.00
+1476,male,group D,master degree,none,82,82,74,238,79.33
+3674,male,group D,master degree,none,89,84,82,255,85.00
+7576,male,group D,bachelor degree,completed,74,79,75,228,76.00
+4120,male,group D,some college,completed,71,61,69,201,67.00
+2206,male,group D,some college,none,88,73,78,239,79.67
+7904,male,group D,bachelor degree,none,54,49,47,150,50.00
+3842,male,group D,some high school,none,62,67,61,190,63.33
+4987,male,group D,associate degree,none,66,62,64,192,64.00
+3702,male,group D,some high school,completed,62,66,68,196,65.33
+1553,male,group D,some college,completed,76,83,79,238,79.33
+6319,male,group D,some college,completed,77,62,62,201,67.00
+7697,male,group D,associate degree,none,61,55,52,168,56.00
+597,male,group D,some high school,completed,74,71,78,223,74.33
+1629,male,group D,some high school,completed,80,79,79,238,79.33
+9051,male,group D,some high school,none,86,80,75,241,80.33
+2436,male,group D,high school,none,57,50,54,161,53.67
+7399,male,group D,some college,none,76,64,66,206,68.67
+5795,male,group D,associate degree,none,80,75,77,232,77.33
+4928,male,group D,bachelor degree,none,63,66,67,196,65.33
+9321,male,group D,high school,completed,73,68,66,207,69.00
+7731,male,group D,some high school,none,75,74,69,218,72.67
+4507,male,group D,master degree,none,80,80,72,232,77.33
+1875,male,group D,high school,none,54,52,52,158,52.67
+1455,male,group D,high school,none,76,73,68,217,72.33
+1774,male,group D,some high school,none,59,42,41,142,47.33
+9719,male,group D,high school,none,53,52,42,147,49.00
+9581,male,group D,high school,none,45,48,46,139,46.33
+5763,male,group D,some high school,none,86,73,70,229,76.33
+8243,male,group D,high school,completed,78,77,80,235,78.33
+1749,male,group D,associate degree,none,90,87,75,252,84.00
+6390,male,group D,some high school,none,56,54,52,162,54.00
+8763,male,group D,bachelor degree,completed,67,61,68,196,65.33
+962,male,group D,some high school,completed,76,70,69,215,71.67
+4446,male,group D,associate degree,completed,67,72,67,206,68.67
+6248,male,group D,some college,none,79,73,67,219,73.00
+7632,male,group D,high school,none,75,74,66,215,71.67
+9851,male,group D,some college,none,59,62,61,182,60.67
+444,male,group D,some high school,none,74,74,72,220,73.33
+4788,male,group D,master degree,none,73,70,75,218,72.67
+8008,male,group D,some high school,none,60,59,54,173,57.67
+7640,male,group D,associate degree,completed,87,84,85,256,85.33
+4413,male,group D,associate degree,none,71,66,60,197,65.67
+7281,male,group D,some college,none,68,59,62,189,63.00
+8048,male,group D,associate degree,none,75,68,64,207,69.00
+365,male,group D,associate degree,none,75,66,73,214,71.33
+1773,male,group D,some high school,completed,89,88,82,259,86.33
+7403,male,group D,some college,none,69,66,60,195,65.00
+8201,male,group D,associate degree,none,53,54,48,155,51.67
+3875,male,group D,associate degree,none,80,68,72,220,73.33
+2662,male,group D,some college,none,61,47,56,164,54.67
+9752,male,group D,high school,completed,68,64,66,198,66.00
+8932,male,group D,some college,none,76,71,73,220,73.33
+8540,male,group D,some high school,none,62,49,52,163,54.33
+3264,male,group D,some college,none,71,49,52,172,57.33
+7558,male,group D,bachelor degree,none,69,58,57,184,61.33
+1580,male,group D,associate degree,completed,79,82,80,241,80.33
+5218,male,group D,some college,none,77,62,64,203,67.67
+5495,male,group D,some high school,none,73,66,62,201,67.00
+7587,male,group D,bachelor degree,none,68,68,67,203,67.67
+6523,male,group D,high school,none,60,57,51,168,56.00
+4506,male,group D,master degree,completed,84,89,90,263,87.67
+4815,male,group D,some college,completed,69,60,63,192,64.00
+3434,male,group D,bachelor degree,none,88,78,83,249,83.00
+9950,male,group D,master degree,none,95,81,84,260,86.67
+4801,male,group D,some college,completed,100,97,99,296,98.67
+1860,male,group D,associate degree,none,61,48,46,155,51.67
+2349,male,group D,some college,none,49,57,46,152,50.67
+4236,male,group D,some college,none,67,64,70,201,67.00
+964,male,group D,some high school,none,84,84,80,248,82.67
+2451,male,group D,high school,none,41,52,51,144,48.00
+7986,male,group D,some high school,none,69,66,61,196,65.33
+4273,male,group D,associate degree,none,90,87,85,262,87.33
+1259,male,group D,associate degree,none,80,63,63,206,68.67
+2884,male,group D,associate degree,completed,81,72,77,230,76.67
+7218,male,group D,associate degree,none,52,57,50,159,53.00
+3340,male,group D,associate degree,none,81,75,78,234,78.00
+8123,male,group D,some college,none,63,61,60,184,61.33
+6242,male,group D,associate degree,none,77,78,73,228,76.00
+3603,male,group D,high school,none,46,34,36,116,38.67
+9988,male,group D,high school,none,89,87,79,255,85.00
+45,male,group D,master degree,none,81,81,84,246,82.00
+3353,male,group D,some high school,completed,55,59,59,173,57.67
+6725,male,group D,some high school,none,55,47,44,146,48.67
+1296,male,group D,associate degree,none,81,71,73,225,75.00
+5582,male,group D,bachelor degree,none,80,73,72,225,75.00
+2533,male,group D,associate degree,none,72,79,74,225,75.00
+1758,male,group D,high school,none,69,75,71,215,71.67
+7696,male,group D,some high school,completed,71,69,68,208,69.33
+7331,male,group D,some college,none,55,58,52,165,55.00
+2621,male,group D,some high school,completed,78,81,86,245,81.67
+4769,male,group D,some college,none,60,63,59,182,60.67
+9167,male,group D,bachelor degree,none,75,73,74,222,74.00
+3570,male,group D,high school,none,66,74,69,209,69.67
+3032,male,group D,high school,none,70,70,70,210,70.00
+8840,male,group D,bachelor degree,completed,61,70,76,207,69.00
+1990,male,group D,high school,none,64,54,50,168,56.00
+6370,male,group D,associate degree,none,80,75,69,224,74.67
+3499,male,group D,bachelor degree,completed,39,42,38,119,39.67
+1666,male,group D,some college,completed,82,82,88,252,84.00
+4290,male,group D,some college,none,81,82,84,247,82.33
+8306,male,group D,bachelor degree,none,55,46,44,145,48.33
+1013,male,group D,high school,none,44,51,48,143,47.67
+3854,male,group D,some high school,completed,88,74,75,237,79.00
+3444,male,group D,associate degree,completed,67,54,63,184,61.33
+7645,male,group D,master degree,none,85,84,89,258,86.00
+7774,male,group D,some college,none,88,77,77,242,80.67
+2144,male,group D,bachelor degree,none,50,42,48,140,46.67
+6044,male,group D,high school,none,69,70,67,206,68.67
+249,male,group D,high school,none,72,66,66,204,68.00
+2042,male,group D,high school,none,74,70,69,213,71.00
+9972,male,group D,some college,none,62,57,62,181,60.33
+8375,male,group D,associate degree,completed,61,71,73,205,68.33
+9223,male,group D,some college,none,70,63,58,191,63.67
+2227,male,group D,some college,completed,85,81,85,251,83.67
+5127,male,group D,some high school,completed,77,68,69,214,71.33
+2141,female,group D,master degree,none,62,70,75,207,69.00
+6416,female,group D,some college,none,69,74,74,217,72.33
+3197,female,group D,associate degree,none,74,81,83,238,79.33
+7128,female,group D,some high school,none,50,64,59,173,57.67
+6303,female,group D,associate degree,completed,75,90,88,253,84.33
+5069,female,group D,associate degree,completed,57,74,76,207,69.00
+1513,female,group D,some high school,none,59,58,59,176,58.67
+8818,female,group D,some college,completed,58,63,73,194,64.67
+9297,female,group D,some high school,completed,61,74,72,207,69.00
+3061,female,group D,associate degree,none,71,71,74,216,72.00
+4154,female,group D,some high school,none,73,86,82,241,80.33
+5343,female,group D,some college,none,58,67,62,187,62.33
+3992,female,group D,bachelor degree,none,65,67,62,194,64.67
+9801,female,group D,associate degree,none,85,91,89,265,88.33
+6055,female,group D,master degree,none,87,100,100,287,95.67
+143,female,group D,associate degree,completed,77,89,98,264,88.00
+3450,female,group D,some college,none,51,58,54,163,54.33
+1453,female,group D,bachelor degree,none,78,82,79,239,79.67
+3711,female,group D,some high school,none,51,63,61,175,58.33
+1060,female,group D,some high school,none,76,72,71,219,73.00
+3574,female,group D,bachelor degree,completed,68,75,81,224,74.67
+6537,female,group D,some college,none,79,86,81,246,82.00
+1441,female,group D,some high school,completed,97,100,100,297,99.00
+5097,female,group D,associate degree,none,65,69,70,204,68.00
+5249,female,group D,some college,none,65,81,77,223,74.33
+7469,female,group D,high school,completed,56,68,74,198,66.00
+602,female,group D,some high school,completed,64,60,74,198,66.00
+3746,female,group D,high school,none,56,52,55,163,54.33
+2562,female,group D,some college,none,71,83,83,237,79.00
+4285,female,group D,high school,none,69,72,77,218,72.67
+5983,female,group D,associate degree,completed,88,92,95,275,91.67
+8011,female,group D,associate degree,none,47,53,58,158,52.67
+4704,female,group D,some college,none,65,70,71,206,68.67
+6434,female,group D,bachelor degree,none,73,79,84,236,78.67
+5792,female,group D,some college,completed,70,78,78,226,75.33
+8413,female,group D,high school,none,49,57,52,158,52.67
+9883,female,group D,master degree,completed,77,82,91,250,83.33
+8555,female,group D,associate degree,none,56,65,63,184,61.33
+4037,female,group D,some high school,completed,35,55,60,150,50.00
+2061,female,group D,some college,none,80,90,89,259,86.33
+4415,female,group D,some high school,none,27,34,32,93,31.00
+3884,female,group D,some high school,none,73,84,85,242,80.67
+8042,female,group D,some college,completed,82,97,96,275,91.67
+5238,female,group D,bachelor degree,none,59,70,73,202,67.33
+763,female,group D,some high school,none,80,90,82,252,84.00
+1494,female,group D,master degree,completed,85,95,100,280,93.33
+7111,female,group D,high school,none,62,64,64,190,63.33
+4211,female,group D,some college,none,77,68,77,222,74.00
+3488,female,group D,high school,completed,88,99,100,287,95.67
+1954,female,group D,high school,completed,52,57,56,165,55.00
+6095,female,group D,master degree,completed,70,71,74,215,71.67
+8399,female,group D,high school,completed,57,58,64,179,59.67
+3464,female,group D,master degree,completed,47,58,67,172,57.33
+2584,female,group D,high school,none,78,81,80,239,79.67
+6763,female,group D,bachelor degree,none,79,89,89,257,85.67
+1765,female,group D,associate degree,none,26,31,38,95,31.67
+4799,female,group D,some high school,none,59,67,61,187,62.33
+746,female,group D,bachelor degree,completed,71,76,83,230,76.67
+3630,female,group D,master degree,none,55,64,70,189,63.00
+6254,female,group D,associate degree,none,52,59,56,167,55.67
+871,female,group D,some college,completed,59,78,76,213,71.00
+8393,female,group D,master degree,none,74,79,82,235,78.33
+5317,female,group D,master degree,none,40,59,54,153,51.00
+1423,female,group D,some college,none,74,89,84,247,82.33
+1538,female,group D,some high school,completed,66,78,78,222,74.00
+4820,female,group D,bachelor degree,none,29,41,47,117,39.00
+2893,female,group D,high school,none,51,66,62,179,59.67
+8822,female,group D,associate degree,none,82,95,89,266,88.67
+1402,female,group D,master degree,none,64,63,66,193,64.33
+8789,female,group D,some college,completed,74,75,79,228,76.00
+8086,female,group D,some college,completed,63,80,80,223,74.33
+1767,female,group D,master degree,completed,61,71,78,210,70.00
+3534,female,group D,master degree,none,53,61,68,182,60.67
+977,female,group D,some high school,none,81,97,96,274,91.33
+4218,female,group D,bachelor degree,none,63,73,78,214,71.33
+3895,female,group D,associate degree,completed,73,75,80,228,76.00
+7591,female,group D,some college,none,69,77,77,223,74.33
+2039,female,group D,high school,none,69,77,73,219,73.00
+1495,female,group D,some high school,none,65,82,81,228,76.00
+5080,female,group D,master degree,none,54,60,63,177,59.00
+4430,female,group D,some high school,completed,80,92,88,260,86.67
+2159,female,group D,associate degree,none,76,74,73,223,74.33
+5688,female,group D,associate degree,completed,74,88,90,252,84.00
+1641,female,group D,associate degree,none,59,70,65,194,64.67
+8095,female,group D,some college,completed,69,79,81,229,76.33
+4077,female,group D,some college,completed,85,86,98,269,89.67
+4751,female,group D,associate degree,none,43,60,58,161,53.67
+4167,female,group D,some college,none,55,71,69,195,65.00
+7293,female,group D,high school,completed,69,77,78,224,74.67
+7132,female,group D,high school,none,67,72,74,213,71.00
+3432,female,group D,associate degree,none,77,77,73,227,75.67
+4968,female,group D,some college,none,79,89,86,254,84.67
+3767,female,group D,associate degree,completed,57,78,79,214,71.33
+5327,female,group D,some college,none,63,64,67,194,64.67
+548,female,group D,associate degree,completed,42,61,58,161,53.67
+3918,female,group D,some college,none,98,100,99,297,99.00
+7069,female,group D,high school,none,73,92,84,249,83.00
+3712,female,group D,some college,completed,52,59,65,176,58.67
+3747,female,group D,some high school,none,48,58,54,160,53.33
+2118,female,group D,some high school,none,68,71,75,214,71.33
+1315,female,group D,associate degree,none,46,56,57,159,53.00
+9878,female,group D,some college,none,60,66,70,196,65.33
+20,female,group D,some college,none,64,74,75,213,71.00
+3237,female,group D,bachelor degree,none,78,90,93,261,87.00
+54,female,group D,some high school,completed,69,86,81,236,78.67
+8973,female,group D,high school,none,39,52,46,137,45.67
+6984,female,group D,some high school,completed,40,65,64,169,56.33
+572,female,group D,some high school,none,59,72,80,211,70.33
+4783,female,group D,associate degree,none,64,76,74,214,71.33
+3483,female,group D,some college,none,69,65,74,208,69.33
+568,female,group D,some high school,completed,65,78,82,225,75.00
+564,female,group D,bachelor degree,completed,93,100,100,293,97.67
+2722,female,group D,some high school,none,67,84,84,235,78.33
+5009,female,group D,some college,completed,79,84,91,254,84.67
+5782,female,group D,high school,completed,65,61,71,197,65.67
+9677,female,group D,master degree,none,78,91,96,265,88.33
+2802,female,group D,some college,none,49,58,60,167,55.67
+2496,female,group D,some college,completed,75,77,83,235,78.33
+5258,female,group D,master degree,none,92,100,100,292,97.33
+
+Total students,249
+Male,130,52.21%
+Female,119,47.79%

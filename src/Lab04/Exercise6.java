@@ -10,15 +10,13 @@ public class Exercise6 {
 
     public static void main(String[] args) {
         ArrayList<String[]> data = new ArrayList<>();
-
-        // ---------- read the file ----------
         try {
             Scanner sc = new Scanner(new File("CandidatePerformanceTest.csv"));
             while (sc.hasNextLine()) {
                 String line = sc.nextLine();
                 String[] p = line.split(",");
                 if (p.length < 10) {
-                    continue; // skip the title and header lines (they have fewer than 10 pieces)
+                    continue;
                 }
                 data.add(p);
             }
@@ -28,24 +26,18 @@ public class Exercise6 {
             return;
         }
 
-        // ---------- display the first 10 rows ----------
         System.out.println("Rows loaded: " + data.size());
         for (int i = 0; i < 10; i++) {
             System.out.println(Arrays.toString(data.get(i)));
         }
         System.out.println();
 
-        // ---------- answer the questions ----------
         question1(data);
         question2(data);
         question3(data);
         question4(data);
     }
 
-    // Each row is an array: [0]=ID  [1]=gender  [2]=group  [3]=education  [4]=test prep
-    //                       [5]=Math  [6]=English  [7]=Computer  [8]=Total  [9]=Average
-
-    // Q1: How many candidates in total? % male? % female?
     static void question1(ArrayList<String[]> data) {
         int total = data.size();
         int male = 0;
@@ -66,7 +58,6 @@ public class Exercise6 {
         System.out.println();
     }
 
-    // Q2: How many candidates got an average of at least 90? % male? % female?
     static void question2(ArrayList<String[]> data) {
         int total = 0;
         int male = 0;
@@ -91,7 +82,6 @@ public class Exercise6 {
         System.out.println();
     }
 
-    // Q3: How many candidates scored at least 85 in each subject?
     static void question3(ArrayList<String[]> data) {
         int math = 0;
         int english = 0;
@@ -125,7 +115,6 @@ public class Exercise6 {
         System.out.println();
     }
 
-    // Q4: How many students in each group? % male? % female?
     static void question4(ArrayList<String[]> data) {
         String[] groups = { "group A", "group B", "group C", "group D", "group E" };
 

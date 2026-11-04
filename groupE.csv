@@ -1,0 +1,140 @@
+ID,gender,group,Education,test preparation course,Math,English,Computer,Total,Average
+8324,male,group E,some college,none,97,87,82,266,88.67
+8675,male,group E,associate degree,completed,81,81,79,241,80.33
+6700,male,group E,some college,none,53,55,48,156,52.00
+287,male,group E,associate degree,completed,77,69,68,214,71.33
+2519,male,group E,bachelor degree,completed,79,74,72,225,75.00
+3067,male,group E,some high school,none,30,26,22,78,26.00
+1282,male,group E,associate degree,none,72,64,63,199,66.33
+2236,male,group E,associate degree,completed,66,63,64,193,64.33
+6359,male,group E,some college,none,83,80,73,236,78.67
+5316,male,group E,some college,completed,87,74,70,231,77.00
+2088,male,group E,high school,none,70,55,56,181,60.33
+8601,male,group E,associate degree,completed,100,100,93,293,97.67
+9794,male,group E,some high school,none,94,88,78,260,86.67
+3477,male,group E,high school,none,80,76,65,221,73.67
+5728,male,group E,high school,none,55,56,51,162,54.00
+2970,male,group E,bachelor degree,none,82,62,62,206,68.67
+835,male,group E,high school,completed,81,80,76,237,79.00
+6706,male,group E,high school,completed,87,91,81,259,86.33
+3418,male,group E,some high school,none,92,87,78,257,85.67
+5817,male,group E,some college,none,59,51,43,153,51.00
+3058,male,group E,associate degree,none,89,76,74,239,79.67
+8196,male,group E,associate degree,completed,97,82,88,267,89.00
+4669,male,group E,some high school,completed,77,76,77,230,76.67
+7219,male,group E,associate degree,completed,71,74,68,213,71.00
+4108,male,group E,some college,completed,99,87,81,267,89.00
+2994,male,group E,associate degree,completed,62,56,53,171,57.00
+1689,male,group E,associate degree,none,87,74,76,237,79.00
+4189,male,group E,some college,none,66,57,52,175,58.33
+4484,male,group E,some college,none,84,77,71,232,77.33
+2969,male,group E,associate degree,none,46,43,41,130,43.33
+6012,male,group E,some high school,completed,73,67,59,199,66.33
+9092,male,group E,some college,none,76,67,67,210,70.00
+8603,male,group E,some college,completed,84,83,78,245,81.67
+7460,male,group E,high school,none,84,73,69,226,75.33
+8166,male,group E,high school,completed,57,56,54,167,55.67
+3914,male,group E,bachelor degree,completed,76,62,66,204,68.00
+5171,male,group E,associate degree,none,76,71,67,214,71.33
+9580,male,group E,some college,none,76,71,72,219,73.00
+9838,male,group E,some college,none,68,60,59,187,62.33
+9130,male,group E,associate degree,completed,62,61,58,181,60.33
+8901,male,group E,bachelor degree,completed,85,66,71,222,74.00
+4129,male,group E,some high school,completed,78,83,80,241,80.33
+6053,male,group E,associate degree,none,53,45,40,138,46.00
+955,male,group E,bachelor degree,none,68,68,64,200,66.67
+8903,male,group E,some college,none,86,76,74,236,78.67
+317,male,group E,some college,completed,85,75,68,228,76.00
+6882,male,group E,some college,none,93,90,83,266,88.67
+6024,male,group E,associate degree,completed,91,73,80,244,81.33
+8340,male,group E,some college,completed,81,74,71,226,75.33
+321,male,group E,some high school,completed,68,51,57,176,58.67
+1637,male,group E,some college,none,68,72,65,205,68.33
+5902,male,group E,bachelor degree,completed,70,68,72,210,70.00
+6126,male,group E,associate degree,completed,94,85,82,261,87.00
+2609,male,group E,some high school,completed,89,84,77,250,83.33
+8841,male,group E,some college,none,69,60,54,183,61.00
+7553,male,group E,some high school,completed,87,84,76,247,82.33
+6868,male,group E,some college,completed,49,52,51,152,50.67
+6348,male,group E,high school,none,73,64,57,194,64.67
+7872,male,group E,master degree,none,90,85,84,259,86.33
+2,male,group E,some high school,none,82,67,61,210,70.00
+9806,male,group E,associate degree,completed,78,74,72,224,74.67
+7575,male,group E,associate degree,none,90,90,82,262,87.33
+2479,male,group E,bachelor degree,completed,70,64,70,204,68.00
+8509,male,group E,bachelor degree,completed,100,100,100,300,100.00
+5522,male,group E,some high school,completed,74,64,60,198,66.00
+4948,male,group E,associate degree,none,64,56,52,172,57.33
+6999,male,group E,associate degree,completed,46,43,44,133,44.33
+7422,male,group E,high school,none,94,73,71,238,79.33
+4812,male,group E,associate degree,none,72,57,62,191,63.67
+366,female,group E,master degree,none,56,72,65,193,64.33
+5930,female,group E,associate degree,none,50,56,54,160,53.33
+3182,female,group E,associate degree,completed,82,85,86,253,84.33
+6608,female,group E,master degree,none,62,68,68,198,66.00
+5247,female,group E,some college,completed,63,72,70,205,68.33
+1286,female,group E,bachelor degree,completed,99,100,100,299,99.67
+5201,female,group E,some college,completed,42,55,54,151,50.33
+89,female,group E,high school,completed,66,74,78,218,72.67
+8452,female,group E,some college,completed,75,88,85,248,82.67
+6563,female,group E,master degree,none,81,92,91,264,88.00
+4555,female,group E,high school,none,50,50,47,147,49.00
+6016,female,group E,associate degree,none,66,65,69,200,66.67
+2772,female,group E,associate degree,completed,83,86,88,257,85.67
+1385,female,group E,master degree,none,45,56,54,155,51.67
+1564,female,group E,bachelor degree,none,80,83,83,246,82.00
+7835,female,group E,some college,none,62,73,70,205,68.33
+4475,female,group E,high school,none,99,93,90,282,94.00
+8274,female,group E,some college,none,71,76,70,217,72.33
+4472,female,group E,high school,completed,59,63,75,197,65.67
+6719,female,group E,bachelor degree,none,65,73,75,213,71.00
+6413,female,group E,high school,none,75,86,79,240,80.00
+9294,female,group E,some high school,none,38,49,45,132,44.00
+7206,female,group E,some college,none,67,76,75,218,72.67
+5359,female,group E,bachelor degree,none,64,73,70,207,69.00
+2528,female,group E,some college,none,100,92,97,289,96.33
+2438,female,group E,bachelor degree,none,100,100,100,300,100.00
+882,female,group E,some college,none,71,70,76,217,72.33
+1804,female,group E,associate degree,completed,95,89,92,276,92.00
+1925,female,group E,some college,completed,66,74,73,213,71.00
+981,female,group E,associate degree,completed,79,88,94,261,87.00
+6227,female,group E,bachelor degree,completed,92,100,100,292,97.33
+5275,female,group E,high school,none,74,81,71,226,75.33
+8001,female,group E,some high school,none,77,79,80,236,78.67
+4168,female,group E,high school,none,74,76,73,223,74.33
+1578,female,group E,some college,none,76,78,80,234,78.00
+9697,female,group E,some college,none,61,64,62,187,62.33
+1040,female,group E,bachelor degree,none,37,45,38,120,40.00
+5756,female,group E,bachelor degree,none,61,58,62,181,60.33
+2184,female,group E,high school,completed,74,79,80,233,77.67
+8768,female,group E,high school,none,64,62,68,194,64.67
+169,female,group E,some college,completed,73,78,76,227,75.67
+3206,female,group E,master degree,completed,94,99,100,293,97.67
+5141,female,group E,associate degree,none,73,76,78,227,75.67
+4979,female,group E,bachelor degree,completed,79,81,82,242,80.67
+4387,female,group E,some high school,completed,80,85,85,250,83.33
+1946,female,group E,associate degree,completed,65,75,77,217,72.33
+423,female,group E,some college,none,53,58,57,168,56.00
+5607,female,group E,associate degree,none,84,95,92,271,90.33
+5346,female,group E,some high school,none,72,79,77,228,76.00
+8573,female,group E,associate degree,completed,57,68,73,198,66.00
+6927,female,group E,associate degree,none,70,84,81,235,78.33
+4831,female,group E,associate degree,none,87,94,95,276,92.00
+9666,female,group E,high school,none,41,45,40,126,42.00
+6635,female,group E,some college,none,87,85,93,265,88.33
+6930,female,group E,master degree,none,81,86,87,254,84.67
+7325,female,group E,bachelor degree,completed,71,70,70,211,70.33
+1064,female,group E,associate degree,none,51,51,54,156,52.00
+8408,female,group E,associate degree,completed,93,100,95,288,96.00
+2703,female,group E,some college,completed,86,85,91,262,87.33
+3145,female,group E,associate degree,none,85,92,85,262,87.33
+9250,female,group E,associate degree,none,59,62,69,190,63.33
+2414,female,group E,some high school,none,32,34,38,104,34.67
+4927,female,group E,some college,none,68,70,66,204,68.00
+793,female,group E,high school,none,57,58,57,172,57.33
+7617,female,group E,high school,completed,57,75,73,205,68.33
+8870,female,group E,some high school,none,74,74,72,220,73.33
+
+Total students,135
+Male,69,51.11%
+Female,66,48.89%
