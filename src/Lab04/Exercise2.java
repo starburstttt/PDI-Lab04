@@ -14,6 +14,10 @@ public class Exercise2 {
         int n = Integer.parseInt(inp.nextLine());
         File folder = new File("Ex2LuckyNumber");
         folder.mkdir();
+        File[] oldFiles = folder.listFiles();
+        for (File f : oldFiles) {
+            f.delete();
+        }
         try {
             for (int i = 1; i <= n; i++) {
                 FileWriter fw = new FileWriter(new File(folder, "file" + i + ".csv"));
